@@ -1,2 +1,3 @@
 I'd like to do something interesting and funny.
-git is a interesting thing, ok.
+Git is a interesting thing, ok.
+So I like play git, aha.
