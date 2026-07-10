@@ -5,4 +5,4 @@ Linux and git are always there for you.
 in git,creating a new branch is quick.
 I want to know the difference between switch and checkout.
 uncommitted local changes will be switched by branches.
-I try to solve an error in the branch using.
+I create a new branch feature1 by quick and simple.
