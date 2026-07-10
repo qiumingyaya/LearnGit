@@ -7,3 +7,4 @@ I want to know the difference between switch and checkout.
 uncommitted local changes will be switched by branches.
 I create a new branch feature1 by quick and simple.
 if I don't use Fast forward Pattern.
+I was doing something int branch dev when I met a bug in line 3.
